@@ -12,13 +12,13 @@ I’m Jason. I’m learning incident response by getting hands-on with real situ
 
 ## 📁 Scenarios
 
-### 🔐 Brute Force Attack on Azure VM
+### 🔐 Incident Response Lab: VM Brute Force Detection & Response in Microsoft Sentinel
 
-- **🛠️ Tools**: Sentinel · MDE · KQL · NSG · Azure  
-- **🎯 Focus**: Authentication Abuse · External Threat Detection · NSG Hardening  
-- **🧠 MITRE ATT&CK Techniques**: T1110 · T1078  
-- **📅 Date**: 2025-06-17  
-- **📄 [Read Full Report →](#)**
+- **🛠️ Tools**: Microsoft Sentinel · KQL · Microsoft Defender for Endpoint (MDE) · Azure VM · Log Analytics · Network Security Group (NSG)
+- **🎯 Focus**: Brute Force Detection · Incident Response Lifecycle (NIST 800-61) · Network Containment · Policy Recommendations
+- **🧠 MITRE ATT&CK Techniques**: T1078 (Valid Accounts) · T1110 (Brute Force)
+- **📅 Date**: 2025-06-18  
+- **📄 [Read Full Report →](vm-brute-force-detection.md)**
 
 ---
 
