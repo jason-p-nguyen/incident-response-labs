@@ -101,6 +101,8 @@ No custom VM used. I leveraged the logs from `windows-target-1`, which had exist
 **Device**: `windows-target-1`
 **Triggered by**: A single user executing 4 PowerShell download commands.
 
+//![entity-mapping](Link coming soon)
+
 ### 🔗 Malicious Commands Detected:
 
 ```powershell
@@ -127,6 +129,8 @@ DeviceProcessEvents
 ```
 
 ✅ Confirmed that each script was executed post-download.
+
+//![image](Coming soon)
 
 ### 📄 Script Behavior Summaries (Generated via AI):
 
@@ -162,6 +166,8 @@ DeviceProcessEvents
 * Activity log updated in Microsoft Sentinel
 * Alert rule deleted after analysis
 * Lessons learned documented
+
+![sentinel-incident-activity-log](Link coming soon)
 
 ---
 
