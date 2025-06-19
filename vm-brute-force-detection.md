@@ -13,8 +13,6 @@
 - GitHub (Markdown, Repo Management)
 - NIST 800-61 Framework
 
-**Tooling**: Microsoft Sentinel · KQL · Microsoft Defender for Endpoint (MDE) · Azure VM · Log Analytics · Network Security Group (NSG)
-
 ### 📘 Summary
 
 This project demonstrates how I detected and responded to a simulated brute force attack on an Azure virtual machine using Microsoft Sentinel. I created a scheduled query rule to detect repeated failed logon attempts, triggered an incident, and walked through the full incident response lifecycle using the [NIST 800-61 framework](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final).
