@@ -20,13 +20,13 @@ I’m Jason. I’m learning incident response by getting hands-on with real situ
 - **📅 Date**: 2025-06-18  
 - **📄 [Read Full Report →](vm-brute-force-detection.md)**
 
-## 🔐 Incident Response Lab: PowerShell Suspicious Web Request Investigation
+### 🔐 Incident Response Lab: PowerShell Suspicious Web Request Investigation
 
-🛠️ **Tools**: Microsoft Defender for Endpoint (MDE) · Microsoft Sentinel · KQL · Azure VM · PowerShell  
-🎯 **Focus**: Malicious Script Download Detection · Incident Analysis · Process Command Line Review · Response Actions  
-🧠 **MITRE ATT&CK Techniques**: T1059.001 (PowerShell) · T1105 (Ingress Tool Transfer)  
-📅 **Date**: 2025-06-19  
-📄 **[Read Full Report →](powershell-web-request/powershell-web-request.md)**
+- 🛠️ **Tools**: Microsoft Defender for Endpoint (MDE) · Microsoft Sentinel · KQL · Azure VM · PowerShell  
+- 🎯 **Focus**: Malicious Script Download Detection · Incident Analysis · Process Command Line Review · Response Actions  
+- 🧠 **MITRE ATT&CK Techniques**: T1059.001 (PowerShell) · T1105 (Ingress Tool Transfer)  
+- 📅 **Date**: 2025-06-19  
+- 📄 **[Read Full Report →](powershell-web-request/powershell-web-request.md)**
 
 ---
 
