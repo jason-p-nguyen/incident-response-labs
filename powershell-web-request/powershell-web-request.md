@@ -13,8 +13,6 @@
 - GitHub (Markdown Reporting)
 - NIST 800-61 Framework
 
-**Tooling**: Microsoft Sentinel · KQL · Microsoft Defender for Endpoint · Azure VM · Log Analytics
-
 ---
 
 ### 📘 Summary
