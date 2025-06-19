@@ -8,8 +8,6 @@
 - [Any other tools you used]
 - NIST 800-61 Framework
 
-**Tooling**: [List the main tools briefly for clarity]
-
 ---
 
 ### 📘 Summary
