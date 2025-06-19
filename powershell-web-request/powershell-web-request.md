@@ -154,3 +154,4 @@ DeviceProcessEvents
 * This lab was completed as part of Josh Madakor’s Cyber Range series.
 * Incident response actions simulated in a controlled learning environment.
 * All files and URLs used were part of safe, educational scenarios for cybersecurity training.
+* For my lab notes, [Read PowerShell Suspicious Web Request Lab Notes →](powershell-web-request-lab-notes.md)
