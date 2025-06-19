@@ -28,7 +28,7 @@ I’m Jason. I’m learning incident response by getting hands-on with real situ
 - 📅 **Date**: 2025-06-19  
 - 📄 **[Read Full Report →](powershell-web-request/powershell-web-request.md)**
 
-## 🔐 Incident Response Lab: Impossible Travel Detection & Investigation
+### 🔐 Incident Response Lab: Impossible Travel Detection & Investigation
 
 - 🛠️ **Tools**: Microsoft Sentinel · Entra ID (Azure AD) · KQL · Log Analytics Workspace  
 - 🎯 **Focus**: Identity Protection · Impossible Travel Detection · Conditional Access Insights · Log Correlation  
